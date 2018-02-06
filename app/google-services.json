@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "924567587794",
+    "firebase_url": "https://fir-registerauthenticati-b00d0.firebaseio.com",
+    "project_id": "fir-registerauthenticati-b00d0",
+    "storage_bucket": "fir-registerauthenticati-b00d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924567587794:android:b612d78b8c2f5fdf",
+        "android_client_info": {
+          "package_name": "com.example.sambal.firebaseregisterauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924567587794-ja3ebrfqvl60lbn0c40kgro09sguivha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sambal.firebaseregisterauthentication",
+            "certificate_hash": "77dfb36d05754f332fc359c2c88d364723510d11"
+          }
+        },
+        {
+          "client_id": "924567587794-g91iunimq9ec7f157md55n9uef74b289.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIoTZsmNWkv_JCC6vgIytWxS2oOD_Q-9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924567587794-g91iunimq9ec7f157md55n9uef74b289.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
